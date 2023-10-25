@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bebas Neue", sans-serif;
+  font-family: "Mulish", sans-serif;
+}
+body {
+  background-color: #EEEEF5;
+}
